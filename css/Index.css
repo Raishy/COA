@@ -7,7 +7,7 @@
   }
   #background{
     background-repeat: repeat;
-    background-image: url("images/bg-3column.png");
+    background-image: url("/images/bg-3column.png");
   }
   .body1{
     display: block;
